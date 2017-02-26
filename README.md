@@ -1,4 +1,4 @@
-# Interactive Earthquake Map
+# Earthquake Tracker
 
 This Java Application reads an [RSS feed] (http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.atom) of recent earthquakes and their information and uses the Google Maps API, Unfolding Maps API, and JavaFX to create an interactive map of the earthquakes.
 
